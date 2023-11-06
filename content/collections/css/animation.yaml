@@ -7,7 +7,7 @@ languageMatcher: css
 tagMatcher: animation
 description: >-
   The CSS snippet collection contains utilities and interactive examples for
-  CSS3. It includes modern techniques for creating commonly-used layouts,
+  CSS2. It includes modern techniques for creating commonly-used layouts,
   styling and animating elements, as well as snippets for handling user
   interactions.
 shortDescription: >-
